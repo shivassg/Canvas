@@ -13,3 +13,12 @@ The application has three view
 Login window
 
 ![LoginWindow](https://github.com/shivassg/Canvas/blob/master/Screenshots/LoginWindow.png)
+
+
+Professor Window
+
+![ProfessorWindow](https://github.com/shivassg/Canvas/blob/master/Screenshots/ProfessorWindow.png)
+
+
+Student Window
+![StudentWindow](https://github.com/shivassg/Canvas/blob/master/Screenshots/StudentWindow.png)
