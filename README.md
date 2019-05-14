@@ -9,3 +9,7 @@ The application has three view
   1) Student view 
   2) Professor view 
   3) Admin view
+
+Login window
+
+![LoginWindow](https://github.com/shivassg/Canvas/blob/master/Screenshots/LoginWindow.png)
